@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">homework_1</string>
+    <string name="some_text">some string text</string>
+    <string name="hint">enter some text</string>
+    <string name="btn_name">click</string>
+    <string name="hint_per_name">enter persion name</string>
+    <string name="hint_phone">enter phone</string>
+    <string name="hint_number">enter number</string>
+    <string name="hint_password">enter password</string>
+    <string name="hint_email">enter e-mail</string>
 </resources>
